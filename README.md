@@ -18,34 +18,34 @@
 ## 👤 À propos
 
 ```text
-┌──────────────────────────────────────────────────────────────────────────┐
-│                                                                          │
-│  Étudiant en Licence de Sécurité Informatique à l'IFRI (Bénin),         │
-│  je me spécialise dans la Gouvernance, Risque & Conformité (GRC),        │
-│  la Blue Team et la sécurité des réseaux.                                │
-│                                                                          │
-│  Né en 2007, j'ai commencé très tôt à explorer la tech de manière        │
-│  autodidacte — de la maintenance informatique freelance au web design,   │
-│  jusqu'à la cybersécurité et l'entrepreneuriat tech.                     │
-│                                                                          │
-│  Aujourd'hui, je construis à l'intersection de la sécurité et de         │
-│  l'impact : comprendre les systèmes, identifier les risques,             │
-│  documenter, structurer, protéger.                                       │
-│                                                                          │
-│  Je suis également développeur frontend et vibe codeur — capable         │
-│  de concevoir des interfaces comme de rédiger une politique de           │
-│  sécurité ou un plan de gestion des risques.                             │
-│                                                                          │
-│  📍 Abomey-Calavi, Bénin  ·  🌍 West Africa  ·  🚀 Builder mindset     │
-│                                                                          │
-└──────────────────────────────────────────────────────────────────────────┘
+                    ┌──────────────────────────────────────────────────────────────────────────┐
+                    │                                                                          │
+                    │  Étudiant en Licence de Sécurité Informatique à l'IFRI (Bénin),         │
+                    │  je me spécialise dans la Gouvernance, Risque & Conformité (GRC),        │
+                    │  la Blue Team et la sécurité des réseaux.                                │
+                    │                                                                          │
+                    │  Né en 2007, j'ai commencé très tôt à explorer la tech de manière        │
+                    │  autodidacte - de la maintenance informatique freelance au web design,   │
+                    │  jusqu'à la cybersécurité et l'entrepreneuriat tech.                     │
+                    │                                                                          │
+                    │  Aujourd'hui, je construis à l'intersection de la sécurité et de         │
+                    │  l'impact : comprendre les systèmes, identifier les risques,             │
+                    │  documenter, structurer, protéger.                                       │
+                    │                                                                          │
+                    │  Je suis également développeur frontend et vibe codeur - capable         │
+                    │  de concevoir des interfaces comme de rédiger une politique de           │
+                    │  sécurité ou un plan de gestion des risques.                             │
+                    │                                                                          │
+                    │  📍 Abomey-Calavi, Bénin  ·  🌍 West Africa  ·  🚀 Builder mindset     │
+                    │                                                                          │
+                    └──────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
 ## 🛡️ Cybersécurité
 
-### 📋 GRC — Gouvernance, Risque & Conformité *(domaine principal)*
+### 📋 GRC - Gouvernance, Risque & Conformité *(domaine principal)*
 
 > C'est là où je mets le plus d'énergie : comprendre les risques, les structurer, les documenter et les adresser dans un cadre réglementaire. Je travaille activement à approfondir cette discipline à travers mes formations et mes projets personnels.
 
@@ -133,7 +133,7 @@ Plateforme de lutte contre la cybercriminalité en cours de développement, cibl
                       Institut de Formation et de Recherche en Informatique (IFRI)
                       Abomey-Calavi, Bénin
 
-Jul-Août 2024    🤖  École d'Été en Intelligence Artificielle — EEIA 2024
+Jul-Août 2024    🤖  École d'Été en Intelligence Artificielle - EEIA 2024
                       Chatbot IA · Machine Learning · Électronique embarquée
                       Projet : Développement d'un chatbot intelligent pour marketplace
 

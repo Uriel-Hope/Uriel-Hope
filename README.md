@@ -18,21 +18,54 @@
 ## 👤 À propos
 
 ```text
-┌─────────────────────────────────────────────────────────────────────┐
-│  Étudiant en Licence de Sécurité Informatique à l'IFRI (Bénin),    │
-│  je construis une expertise à l'intersection de la cybersécurité,   │
-│  du développement frontend et de l'entrepreneuriat tech.            │
-│                                                                     │
-│  Curieux, autonome et orienté solutions — je build, je casse,       │
-│  je comprends, je sécurise.                                         │
-│                                                                     │
-│  📍 Abomey-Calavi, Bénin   🌍 West Africa focused                  │
-└─────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────┐
+│                                                                          │
+│  Étudiant en Licence de Sécurité Informatique à l'IFRI (Bénin),         │
+│  je me spécialise dans la Gouvernance, Risque & Conformité (GRC),        │
+│  la Blue Team et la sécurité des réseaux.                                │
+│                                                                          │
+│  Né en 2007, j'ai commencé très tôt à explorer la tech de manière        │
+│  autodidacte — de la maintenance informatique freelance au web design,   │
+│  jusqu'à la cybersécurité et l'entrepreneuriat tech.                     │
+│                                                                          │
+│  Aujourd'hui, je construis à l'intersection de la sécurité et de         │
+│  l'impact : comprendre les systèmes, identifier les risques,             │
+│  documenter, structurer, protéger.                                       │
+│                                                                          │
+│  Je suis également développeur frontend et vibe codeur — capable         │
+│  de concevoir des interfaces comme de rédiger une politique de           │
+│  sécurité ou un plan de gestion des risques.                             │
+│                                                                          │
+│  📍 Abomey-Calavi, Bénin  ·  🌍 West Africa  ·  🚀 Builder mindset     │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
 ## 🛡️ Cybersécurité
+
+### 📋 GRC — Gouvernance, Risque & Conformité *(domaine principal)*
+
+> C'est là où je mets le plus d'énergie : comprendre les risques, les structurer, les documenter et les adresser dans un cadre réglementaire. Je travaille activement à approfondir cette discipline à travers mes formations et mes projets personnels.
+
+![ISO 27001](https://img.shields.io/badge/ISO-27001-0066cc?style=flat-square)
+![ISO 27005](https://img.shields.io/badge/ISO-27005-0044aa?style=flat-square)
+![RGPD](https://img.shields.io/badge/RGPD-Conformité-003399?style=flat-square)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-cc0000?style=flat-square)
+![Risk Management](https://img.shields.io/badge/Risk-Management-006644?style=flat-square)
+![PSSI](https://img.shields.io/badge/PSSI-Rédaction-555555?style=flat-square)
+![Audit](https://img.shields.io/badge/Audit-Sécurité-orange?style=flat-square)
+![Veille](https://img.shields.io/badge/Veille-Réglementaire-8B0000?style=flat-square)
+
+**Compétences clés :**
+- Analyse et classification des risques (méthode EBIOS RM / ISO 27005)
+- Rédaction de politiques de sécurité (PSSI) et plans de traitement des risques
+- Veille réglementaire et conformité (RGPD, législations africaines)
+- Cartographie des menaces via MITRE ATT&CK
+- Documentation technique et reporting orienté décision
+
+---
 
 ### 🔵 Blue Team & SOC
 ![SIEM](https://img.shields.io/badge/SIEM-Splunk-black?style=flat-square&logo=splunk&logoColor=00b4d8)
@@ -41,8 +74,12 @@
 ![Volatility](https://img.shields.io/badge/Volatility-3-grey?style=flat-square)
 ![Autopsy](https://img.shields.io/badge/Autopsy-DFIR-darkblue?style=flat-square)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212c42?style=flat-square&logo=tryhackme&logoColor=white)
+![LetsDefend](https://img.shields.io/badge/LetsDefend-SOC-1a1a2e?style=flat-square)
+![CyberDefenders](https://img.shields.io/badge/CyberDefenders-blue?style=flat-square)
 
 > Analyse de logs · Threat detection · DFIR · Investigation numérique · Réponse aux incidents
+
+---
 
 ### 🌐 Réseau & Infrastructure
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square)
@@ -51,16 +88,9 @@
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-e95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![GnuPG](https://img.shields.io/badge/GnuPG-Cryptographie-0093DD?style=flat-square)
 
 > Segmentation réseau · Administration système · Configuration VMs · Surveillance trafic
-
-### 📋 GRC — Gouvernance, Risque & Conformité
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-c00?style=flat-square)
-![ISO 27001](https://img.shields.io/badge/ISO-27001-blue?style=flat-square)
-![RGPD](https://img.shields.io/badge/RGPD-Conformité-0066cc?style=flat-square)
-![Risk Management](https://img.shields.io/badge/Risk-Management-darkgreen?style=flat-square)
-
-> Analyse de risques · Politiques de sécurité · Veille réglementaire · Documentation technique
 
 ---
 
@@ -103,11 +133,11 @@ Plateforme de lutte contre la cybercriminalité en cours de développement, cibl
                       Institut de Formation et de Recherche en Informatique (IFRI)
                       Abomey-Calavi, Bénin
 
-Jul–Août 2024    🤖  École d'Été en Intelligence Artificielle — EEIA 2024
+Jul-Août 2024    🤖  École d'Été en Intelligence Artificielle — EEIA 2024
                       Chatbot IA · Machine Learning · Électronique embarquée
                       Projet : Développement d'un chatbot intelligent pour marketplace
 
-Jul–Sep 2023     🌐  Développement Web & Mobile
+Jul-Sep 2023     🌐  Développement Web & Mobile
                       Be Winner Academy
 
 Oct 2021 → 2024  🔧  Diplôme de Technicien en Installation & Maintenance Informatique
